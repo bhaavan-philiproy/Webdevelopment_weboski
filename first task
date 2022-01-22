@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Task Pending...</title>
+</head>
+<body>
+<header>
+<img src="images.jpeg" alt="This is an image " width="200px">
+<nav>
+<a href="https://www.google.com">Google</a>
+<a href="https://en.wikipedia.org">Wikipedia</a>
+<a href="https://www.youtube.com/">Youtube</a>
+</nav>
+</header>
+<main>
+<section>
+<h1>Hello World</h1>
+<p>This is your first task. Do read the instructions below:</p>
+<ul>
+<li>Find the <i>missing elements and attributes</i> in the html code.</li>
+<li>Read the full code, then apply your knowledge.</li>
+<li>You can refer from the <a href="https://www.w3schools.com/html/default.asp">website</a> </li>
+<li>Have <span><em>fun!!!</em></span></li>
+</ul>
+</section>
+<section>
+<form> 
+<fieldset><legend>Personal Details</legend>
+<!-- add more input tags with type of checkbox, radio, email.etc and fieldsets -->
+<label>Name<input type="text"></label>
+<label >Email <input type="email"></label><br>
+<label>Gender :
+    <input type="radio" name="s">
+    Male
+    <input type="radio"name="s">
+    Female
+</label><br>
+<label>Age<input type="number"></label>
+<label>
+    batch
+    <select name="batch" >
+        <option selected></option>
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+        <option>D</option>
+        <option>E</option>
+        <option>F</option>
+        <option>G</option>
+    </select></label><br>
+<label >Languages Known : 
+    <input type="checkbox">English
+    <input type="checkbox">Malayalam
+    <input type="checkbox">Hindi
+</label>
+</fieldset><br>
+<button type='sumit'>Submit</button>
+</form>
+</section>
+<br>
+<section>
+<h2>
+<!-- make this as h2 replacing the div -->
+Hello World
+</h2>
+<b>In this section: I am going to give you task to change the title of the website to 'Task Pending...'</b>
+</section>
+</main>
+<br>
+<div> <footer> &#169;DuethyElsaMathews</footer></div>
+</body>
+</html>
