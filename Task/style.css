@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(223, 209, 196);
+}
+div.start{
+    padding: 10px;
+    background-color: rgb(245, 188, 161);
+    margin:0 px;
+}
+
+div.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+div.one{
+    padding: 10px;
+}
+div.two{
+    padding: 10px;
+}
+div.three{
+    padding: 10px;
+    background-color: white;
+    border: 2px solid rgba(187, 185, 183, 0.568);
+    margin-right: 50px;
+}
+a:hover{
+    color: rgb(7, 153, 211);
+}
+
+h1{
+    color: saddlebrown;
+}
+h4{
+    color: saddlebrown;
+}
